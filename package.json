@@ -16,5 +16,9 @@
     "puppeteer": "^21.4.1",
     "qrcode": "^1.5.3",
     "whatsapp-web.js": "^1.23.0"
+  },
+  "puppeteer": {
+    "executablePath": "/app/.apt/usr/bin/google-chrome",
+    "args": ["--no-sandbox", "--disable-setuid-sandbox"]
   }
 }
