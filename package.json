@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Bot de WhatsApp",
   "main": "bot.js",
-  "engines":{
+  "engines": {
     "node": "20.9.0"
   },
   "scripts": {
